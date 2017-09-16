@@ -1,11 +1,6 @@
 **************************************************************
 Parallel Implementation of Decision Tree Using OpenMP and CUDA
 **************************************************************
-Team Members:-
-Bhushan Pagariya (bpagariy@uci.edu) - 76245890, 
-Jatin Mehta (jatinm@uci.edu) - 20807196
-
-
 
 *************************************************
 Steps to run CUDA Implementation of Decision Tree
